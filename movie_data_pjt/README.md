@@ -1,16 +1,16 @@
 ## **1. INDEX**       
     - DB설계를 활용한 REST API  설계
-    ### 프로젝트 목표
-    -DRF를 활용한 API Server 제작
-    -DB many to one relationship(1:N)에 대한 이해
-    -DB many to many relationship(M:N)에 대한 이해
+### 프로젝트 목표
+-DRF를 활용한 API Server 제작
+-DB many to one relationship(1:N)에 대한 이해
+-DB many to many relationship(M:N)에 대한 이해
     
-    ### 개발 도구
-    -VS code
-    -Google Chrome
-    -Django 3.2+
-    -Postman
-    
+### 개발 도구
+-VS code
+-Google Chrome
+-Django 3.2+
+-Postman
+
 ## **2. 학습한 내용**
     -is_valid(raise_exception=True)
         view 함수에서 에러를 표현 할 때 return 을 따로 만들 필요 없이 유효성 검사에서 에러를 표현 하는 코드를 학습했습니다.
